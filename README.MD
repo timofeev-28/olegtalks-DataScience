@@ -1,6 +1,8 @@
 # Домашние работы по авторскому курсу Data Science Олега Булыгина
 
-[Сайт Олега Булыгина](https://olegtalks.ru/){target="_blank"}
+<!-- [Сайт Олега Булыгина](https://olegtalks.ru/){target="_blank"} -->
+<a href="https://olegtalks.ru/" target="_blank">Сайт Олега Булыгина</a>
 
-[Телеграм канал](https://t.me/pythontalk_ru){target="_blank"}
+<a href="https://t.me/pythontalk_ru" target="_blank">Телеграм канал</a>
+
 
